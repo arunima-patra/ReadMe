@@ -19,13 +19,6 @@ I have a strong foundation in **Artificial Intelligence**, with a focus on devel
 - 🏅 NPTEL Java Programming Silver Medalist
 - 💻 Top 10 open source contributors in Diversion 2023
 
-## 🎯 Areas of Expertise
-
-- **Artificial Intelligence**: AI-driven solutions for healthcare and legal domains.
-- **Full-Stack Development**: Proficient in building dynamic web applications using **React**, **JavaScript**, and **Python**.
-- **Multimodal AI Models**: Specializing in U-Net, Attention Gate U-Net, and MobileNet for medical imaging.
-- **Project Management & Leadership**: Successfully led multiple projects and teams in hackathons and academic settings.
-
 ## 🔧 Technical Skills
 
 - **Languages**: Python, Java, C, JavaScript, HTML/CSS, SQL
@@ -59,6 +52,7 @@ I have a strong foundation in **Artificial Intelligence**, with a focus on devel
 - **Email**: patraarunima07@gmail.com
 - **LinkedIn**: [linkedin.com/in/arunima-patra-0180aa228](https://linkedin.com/in/arunima-patra-0180aa228)
 - **GitHub**: [github.com/arunima-patra](https://github.com/arunima-patra)
+- **Instagram** [https://www.instagram.com/arunima.patra/]
 
 ---
 
