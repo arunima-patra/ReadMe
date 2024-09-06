@@ -13,12 +13,6 @@ Hi! I’m **Arunima Patra**, currently pursuing my **Bachelor of Technology in C
 
 I have a strong foundation in **Artificial Intelligence**, with a focus on developing AI-driven solutions for healthcare and legal domains. My expertise spans **Full-Stack Development**, where I build dynamic, responsive web applications using technologies like **React**, **JavaScript**, and **Python**. In addition, I specialize in **multimodal AI models** particularly for medical imaging projects. Throughout my journey, I have also honed my **project management and leadership** skills, successfully leading teams in various hackathons and academic projects, driving innovation and problem-solving.
 
-- 🌍 Based in Kolkata, India
-- 🎓 Studying at IEM, Kolkata (2021 – 2025)
-- 🎉 SIH’23 Winner, SIH'22 Finalist
-- 🏅 NPTEL Java Programming Silver Medalist
-- 💻 Top 10 open source contributors in Diversion 2023
-
 ## 🔧 Technical Skills
 
 - **Languages**: Python, Java, C, JavaScript, HTML/CSS, SQL
