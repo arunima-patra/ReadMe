@@ -6,7 +6,6 @@ Here’s a personalized `README.md` for you:
 
 ### Aspiring Software Engineer | AI Enthusiast | Open Source Contributor
 
-![Profile Image](link_to_your_image)
 
 ## 👋 About Me
 
