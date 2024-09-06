@@ -13,14 +13,6 @@ Hi! I’m **Arunima Patra**, currently pursuing my **Bachelor of Technology in C
 
 I have a strong foundation in **Artificial Intelligence**, with a focus on developing AI-driven solutions for healthcare and legal domains. My expertise spans **Full-Stack Development**, where I build dynamic, responsive web applications using technologies like **React**, **JavaScript**, and **Python**. In addition, I specialize in **multimodal AI models** particularly for medical imaging projects. Throughout my journey, I have also honed my **project management and leadership** skills, successfully leading teams in various hackathons and academic projects, driving innovation and problem-solving.
 
-## 🔧 Technical Skills
-
-- **Languages**: Python, Java, C, JavaScript, HTML/CSS, SQL
-- **Frameworks/Tools**: React, Django, TensorFlow, Keras, Google Colab, Git, VS Code
-- **AI/ML**: Deep Learning, U-Net, Attention Gate U-Net, MobileNet, OpenCV
-- **Version Control**: Git, GitHub
-- **Platforms**: Linux, Google Cloud, Kaggle
-
 ## 🚀 Projects
 
 - **Advocate.ai Legal Assistant Bot** (React, GPT 3.5): A multilingual legal chatbot that provides insights into legal case documents and answers user queries in 17 languages.
