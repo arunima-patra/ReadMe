@@ -11,6 +11,8 @@ Here’s a personalized `README.md` for you:
 
 Hi! I’m **Arunima Patra**, currently pursuing my **Bachelor of Technology in Computer Science & Engineering** at IEM, Kolkata. With a passion for artificial intelligence and problem-solving, I’ve been actively involved in developing cutting-edge projects in medical imaging, legal assistant bots, and more. I'm also an enthusiastic open-source contributor and love to engage with new technologies.
 
+I have a strong foundation in **Artificial Intelligence**, with a focus on developing AI-driven solutions for healthcare and legal domains. My expertise spans **Full-Stack Development**, where I build dynamic, responsive web applications using technologies like **React**, **JavaScript**, and **Python**. In addition, I specialize in **multimodal AI models** particularly for medical imaging projects. Throughout my journey, I have also honed my **project management and leadership** skills, successfully leading teams in various hackathons and academic projects, driving innovation and problem-solving.
+
 - 🌍 Based in Kolkata, India
 - 🎓 Studying at IEM, Kolkata (2021 – 2025)
 - 🎉 SIH’23 Winner, SIH'22 Finalist
@@ -23,12 +25,6 @@ Hi! I’m **Arunima Patra**, currently pursuing my **Bachelor of Technology in C
 - **Full-Stack Development**: Proficient in building dynamic web applications using **React**, **JavaScript**, and **Python**.
 - **Multimodal AI Models**: Specializing in U-Net, Attention Gate U-Net, and MobileNet for medical imaging.
 - **Project Management & Leadership**: Successfully led multiple projects and teams in hackathons and academic settings.
-
-## 📚 Education
-
-- **B.Tech in Computer Science & Engineering** (2021 - 2025) - IEM, Kolkata - 9.37 YGPA
-- **ISC (89.4%)** - St. Agnes School, Kharagpur (2019 - 2021)
-- **ICSE (92.33%)** - St. Agnes School, Kharagpur (2015 - 2019)
 
 ## 🔧 Technical Skills
 
@@ -48,9 +44,10 @@ Hi! I’m **Arunima Patra**, currently pursuing my **Bachelor of Technology in C
 
 ## 🏆 Achievements
 
-- **SIH’23 Winner** – Link to Project
-- **NPTEL Silver Medalist** – Java Programming
-- **Top 10 Open Source Contributors** – Diversion 2023
+- **SIH’23 Winner** 
+- **SIH'22 Finalist**
+- **NPTEL Silver Medalist**
+- **Top 10 Open Source Contributors** 
 
 ## 📜 Publications
 
