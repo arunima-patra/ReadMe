@@ -43,11 +43,12 @@ I have a strong foundation in **Artificial Intelligence**, with a focus on devel
 - **Car Price Predictor**: A deep learning model that provides tailored car cost estimates based on user data.
 
 ## 🏆 Achievements
+## Relevant Files
 
-- **SIH’23 Winner** 
-- **SIH'22 Finalist**
-- **NPTEL Silver Medalist**
-- **Top 10 Open Source Contributors** 
+- [**SIH’23 Winner**](https://drive.google.com/file/d/1Fq8zZXNBnlCrYPVZzfm8HGJi-8Ebzi61/view)
+- [**SIH'22 Finalist**](https://drive.google.com/file/d/1Fl8US8RRRO3w93Vr9KKJeE3AmZvHznEm/view)
+- [**NPTEL Silver Medalist**](https://drive.google.com/file/d/1Fq8zZXNBnlCrYPVZzfm8HGJi-8Ebzi61/view)
+- [**Top 10 Open Source Contributors**](https://drive.google.com/file/d/18X-gY7Qp7LbgpN_fL1uUa_Z-POQ58u6D/view?usp=sharing)
 
 ## 📜 Publications
 
