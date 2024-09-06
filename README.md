@@ -45,6 +45,4 @@ I have a strong foundation in **Artificial Intelligence**, with a focus on devel
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arunima-patra&show_icons=true&locale=en&layout=compact" alt="arunima-patra" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arunima-patra&show_icons=true&locale=en" alt="arunima-patra" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arunima-patra&" alt="arunima-patra" /></p>
